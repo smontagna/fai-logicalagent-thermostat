@@ -1,2 +1,2 @@
-rootProject.name = "logical-agent"
+rootProject.name = "fai-logicalagent-thermostat"
 
